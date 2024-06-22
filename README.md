@@ -17,3 +17,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - [XeLaTeX](https://www.latex-project.org/get/)
 - Any LaTeX editor such as [TeXShop](http://pages.uoregon.edu
+
+Written with ChatGPT :)
