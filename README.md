@@ -11,11 +11,17 @@ Welcome to the Curriculum Vitae (CV) Template repository! This repository provid
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and customization purposes.
+Follow these instructions to get a copy of the project up and running on your local machine for development and customization purposes:
+- Use the main.tex to write the main body of your experience (Education, Experience, Volunteering & Skills Section) and to also customise your font, sizing & other misc. configurations.
+- Use the particulars.tex to write your title and links
+- Don't need to touch the utilities section :)
+- Use: $\Rightarrow$ to create more right arrows
+- Have fun filling out your CV!
 
 ### Prerequisites
 
 - [XeLaTeX](https://www.latex-project.org/get/)
-- Any LaTeX editor such as [TeXShop](http://pages.uoregon.edu
+- Any LaTeX editor such as [TeXShop]
+- I personally use Overleaf 👍
 
 Written with ChatGPT :)
